@@ -1,0 +1,5 @@
+train: data/augmented/images
+val: data/images
+
+names:
+  0: drone

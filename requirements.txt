@@ -1,0 +1,5 @@
+ultralytics>=8.0.0
+streamlit
+opencv-python-headless    # or opencv-python if you want GUI support
+Pillow
+numpy
