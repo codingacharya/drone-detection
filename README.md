@@ -16,3 +16,4 @@ python augment_dataset.py
 
 python train_model.py
 
+streamlit run app.py
